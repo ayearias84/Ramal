@@ -1,0 +1,2 @@
+# Ramal
+Spectrum plot
